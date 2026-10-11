@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-10T16:04:12Z",
+  "fetchedAt": "2026-10-11T16:28:21Z",
   "itemCount": 36,
   "items": [
     {
@@ -10,11 +10,18 @@
       "filter": "neurology"
     },
     {
-      "title": "Information regimes in population-graph neuroimaging: cohort context and implementation-dependent evaluation sensitivity",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.02.756253v1?rss=1",
+      "title": "A systematic review of the impact of stimulus presentation modality on fMRI studies for presurgical mapping.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42857661/",
+      "date": "2026-12-01",
+      "source": "NeuroImage",
+      "filter": "neuroimaging"
+    },
+    {
+      "title": "Prospective validation of an uncertainty-aware machine learning model for secondary progressive multiple sclerosis classification",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.10.07.26364939v1?rss=1",
       "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
+      "source": "medRxiv neurology",
+      "filter": "neurology"
     },
     {
       "title": "A Blood-Based Synaptic Biomarker in Neuronally-Enriched Extracellular Vesicles Predicts Disability Progression in Progressive Multiple Sclerosis",
@@ -52,39 +59,81 @@
       "filter": "neurology"
     },
     {
-      "title": "Evidence synthesis on sex differences in mortality after traumatic brain injury: Systematic review integrating meta-analysis and explainable machine learning",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.10.02.26364454v1?rss=1",
+      "title": "Metabolic and microstructural brain alterations associated with occupational blast exposure.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42857164/",
+      "date": "2026-12-01",
+      "source": "NeuroImage",
+      "filter": "neuroimaging"
+    },
+    {
+      "title": "Mapping the Trade-Offs That Shape Mammalian Brain Network Architecture",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.07.757032v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Hemispheric Complementarity is Associated with Distinct Functional and Structural Brain Profiles",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.09.758042v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "EARLY-LIFE STRESS INDUCES SEXUALLY DIMORPHIC BRAIN AGING VIA MESOLIMBIC ALTERATIONS AND FRONTO-STRIATAL DYSFUNCTION",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.09.757621v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Disrupting the Right Inferior Frontal Gyrus Increases Social Brain Activity During Emotion Recognition",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.08.757563v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "A large, comprehensive labeled MRI dataset of the human lateral ventricle choroid plexus",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.08.757728v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Tonotopic mapping in children shows an overrepresentation of high frequencies in autism",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.06.757151v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Static and dynamic noise abolish altruistic biases in Parkinson's disease independent of deep brain stimulation",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.10.08.26365079v1?rss=1",
       "date": null,
       "source": "medRxiv neurology",
       "filter": "neurology"
     },
     {
-      "title": "Identifying Network Factors Driving Changes in Brain Connectivity During Aging via Stochastic Actor-Oriented Models",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.02.756273v1?rss=1",
+      "title": "Full stack academic publishing in seizures with artificial intelligence: a cautionary tale",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.10.07.26363237v1?rss=1",
       "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
+      "source": "medRxiv neurology",
+      "filter": "neurology"
     },
     {
-      "title": "A Bayesian approach to volumetric analysis in rare neurodegenerative disorders",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.02.756349v1?rss=1",
+      "title": "Low-Dose Tenecteplase for Acute Ischemic Stroke Treatment in Aging Patients DATE-AGING Trial: Rationale and Design",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.10.08.26361416v1?rss=1",
       "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
+      "source": "medRxiv neurology",
+      "filter": "neurology"
     },
     {
-      "title": "ASC specks and α-synuclein amplify microglial NLRP3 inflammasome activation and co-localize with Lewy body pathology",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.02.756339v1?rss=1",
+      "title": "Clinical utility of plasma APOE proteotyping for Alzheimer's disease risk and prognosis",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.10.08.26364972v1?rss=1",
       "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Self-Exciting Population Event Models Reveal Abnormal Temporal Amplification in MAPT-Mutant Human Brain Assembloids",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.01.756068v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
+      "source": "medRxiv neurology",
+      "filter": "neurology"
     },
     {
       "title": "Prevalence of motor neuron disease and its clinical subtypes in the Valencian Community, Spain: a population-based cross-sectional study using linked electronic health records",
@@ -171,90 +220,49 @@
       "filter": "neurology"
     },
     {
-      "title": "Explainable machine learning identifies predictors for postural instability and cognitive impairment in early Parkinsons Disease",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.09.30.26364120v1?rss=1",
-      "date": null,
-      "source": "medRxiv neurology",
-      "filter": "neurology"
+      "title": "Neural substrates of duration serial dependence: Putamen suppression of the prior duration trace.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42840448/",
+      "date": "2026-12-01",
+      "source": "NeuroImage",
+      "filter": "neuroimaging"
     },
     {
-      "title": "Speed-emphasized arm training is consistent with improved feedforward control of rapid elbow flexion in chronic stroke",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.10.02.26364609v1?rss=1",
-      "date": null,
-      "source": "medRxiv neurology",
-      "filter": "neurology"
+      "title": "Timing-dependent inhibitory effects of peripheral somatosensory inputs on the primary motor cortex: A transcranial magnetic stimulation-electroencephalography study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42787703/",
+      "date": "2026-12-01",
+      "source": "NeuroImage",
+      "filter": "neuroimaging"
     },
     {
-      "title": "Using the aperiodic slope across learning to predict sleep-based memory consolidation",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.02.756363v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Inferotemporal cortex stimulation is perceived before its onset",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.02.756371v1?rss=1",
+      "title": "Continuous amyloid staging complements global amyloid burden in early Alzheimer's disease",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.03.756367v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "A Computational Model Captures Orexin-Dependent Modulation of Memory Consolidation.",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.02.756298v1?rss=1",
+      "title": "Domain-specific and domain-general signatures of dyscalculia in computational models of behavior and parietal cortex",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.08.757623v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Encephalitic alphavirus infection reduces neurite outgrowth and downregulates Rho GTPase pathways in human iPSC-derived neurospheres",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.08.755254v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Sex Differences in Human Subcortical Anatomy are Robust and Replicable in Adulthood, Already Evident Prepubertally, and Aligned with Sex Chromosomal and Gonadal Influences",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.05.756728v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Moving object generates topographic responses in the majority of entorhinal neurons",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.05.756590v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "A network model of path control",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.02.756268v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Learning Interpretable Switching Dynamics in Shared Neural-Behavioral Latent Space",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.02.756323v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Pharmacokinetic properties of Ogerin and its regulation of post-ischemia signaling in mice",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.02.754522v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Microstructural heterogeneity of white-matter aging and its age-dependent coupling to cognition",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.09.757817v1?rss=1",
+      "title": "Attention warps visual-semantic representations across the human cerebellum",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.08.757640v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     }
   ],
-  "authorItems": [],
+  "authorItems": [
+    {
+      "title": "MRI derived hippocampal asymmetry identifies hippocampal sclerosis in epilepsy surgical specimens.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42676852/",
+      "date": "2026-01-01",
+      "journal": "Brain communications",
+      "source": "PubMed"
+    }
+  ],
   "live": true
 }
