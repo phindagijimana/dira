@@ -1,21 +1,7 @@
 {
-  "fetchedAt": "2026-10-17T14:00:02Z",
+  "fetchedAt": "2026-10-18T14:12:54Z",
   "itemCount": 36,
   "items": [
-    {
-      "title": "Neural correlates and sex hormonal associations of impaired feedback-learning in adolescent patients with anorexia nervosa - a longitudinal fMRI study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42861136/",
-      "date": "2026-12-01",
-      "source": "NeuroImage",
-      "filter": "neuroimaging"
-    },
-    {
-      "title": "A systematic review of the impact of stimulus presentation modality on fMRI studies for presurgical mapping.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42857661/",
-      "date": "2026-12-01",
-      "source": "NeuroImage",
-      "filter": "neuroimaging"
-    },
     {
       "title": "CortexDecoder: fMRI-to-image Reconstruction from Cortical Flatmaps",
       "url": "https://www.biorxiv.org/content/10.64898/2026.10.09.757766v1?rss=1",
@@ -26,13 +12,6 @@
     {
       "title": "Real-time noise cancellation for EEG monitoring and brain-computer interfaces",
       "url": "https://www.biorxiv.org/content/10.64898/2026.10.16.759581v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Understanding Performance Plateaus and Representation Collapse in 3D MRI Transformers Trained to Classify Brain Disease",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.15.759510v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
@@ -59,6 +38,27 @@
       "filter": "neurology"
     },
     {
+      "title": "Action-related brain dynamics during leader-follower coordination",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.11.758328v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Brain-thought states during movie-watching reflect shared sensory anchors and film- and person- specific processes in association cortex",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.16.756266v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Brainstem cholinergic cell loss causes slowly-developing motor impairments",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.16.759730v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
       "title": "Evolutionary diversification of shared brain and nerve cord neuronal populations in Drosophila melanogaster",
       "url": "https://www.biorxiv.org/content/10.64898/2026.10.13.758796v1?rss=1",
       "date": null,
@@ -75,13 +75,6 @@
     {
       "title": "Rapid alternation of conscious and suppressed stimulus representations in the primate brain",
       "url": "https://www.biorxiv.org/content/10.64898/2026.10.15.759299v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "SCN1A haploinsufficiency disrupts neural progenitor networks and accelerates neurogenesis in human Dravet syndrome forebrain assembloids",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.14.758626v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
@@ -192,64 +185,71 @@
       "filter": "neurology"
     },
     {
-      "title": "Architectural reorganization of functional connectivity after propofol anesthesia exceeds within-state measurement variability and is only marginally reversed during early recovery.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42871879/",
-      "date": "2026-12-01",
-      "source": "NeuroImage",
-      "filter": "neuroimaging"
-    },
-    {
-      "title": "Functional connectivity recovers canine-human network homology along the evolutionary cortical hierarchy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42861075/",
-      "date": "2026-12-01",
-      "source": "NeuroImage",
-      "filter": "neuroimaging"
-    },
-    {
-      "title": "History of opioid use disorder correlates with altered neuroimmune signatures in the human dorsal root ganglia",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.10.758227v1?rss=1",
+      "title": "Pilifers provide rapid mechanosensory feedback during floral tracking in hawkmoths",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.11.758322v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Striatal D2-neurons gate D1-mediated associative encoding under uncertainty",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.16.759515v1?rss=1",
+      "title": "Modeling Paralinguistic Features for Speech Neuroprostheses: A Systematic Review",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.11.758333v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Neuronal avalanches in awake macaque V1 and V4",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.11.758173v1?rss=1",
+      "title": "An anatomy-constrained transcriptomic screen identifies a 19-gene panel with an ordered regional similarity pattern in the human somatosensory system",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.13.758993v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Perceived social value is more strongly linked to gossip decisions with age in adolescence",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.10.757213v1?rss=1",
+      "title": "Multi-parametric spectral modeling disentangles synaptic kinetics and neural excitability from non-invasive electrophysiological recordings",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.15.759313v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Starting strong: A descending analgesic dosing scheme enhances pain relief compared to a conventional ascending dosing scheme",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.10.758177v1?rss=1",
+      "title": "Longitudinal associations between task-control network functioning, cognition, and the environment in early adolescence",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.16.759634v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Central platelet-rich plasma administration promotes weight loss in diet-induced obese mice",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.09.758107v1?rss=1",
+      "title": "NeuroMark dFNC: Transferable Dynamic-State Templates for Subject-Specific and Frequency-Resolved Chronnectomics",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.12.758630v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Thalamocortical, not Intracortical, Inputs Set the Wakeful Activity Levels of Cortical Visual Inhibition",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.14.759116v1?rss=1",
+      "title": "Neural categorisation of rhythm in human newborns",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.16.759621v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Aging Is Associated with Reduced Topographic Differentiation Between Speaking and Silent Reading",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.14.756359v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Fast Generalized Longitudinal Functional Principal Components Analysis with Applications to Population-Level Neuronal Dynamics",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.12.758639v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Perineuronal nets in the bed nucleus of stria terminalis mediate stress-induced anxiety behaviour in adult male mice",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.15.759345v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
