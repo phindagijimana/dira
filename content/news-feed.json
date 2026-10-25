@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-24T14:11:07Z",
+  "fetchedAt": "2026-10-25T14:42:31Z",
   "itemCount": 36,
   "items": [
     {
@@ -10,25 +10,25 @@
       "filter": "neurology"
     },
     {
-      "title": "Too early for LATE? Age at onset is associated with the clinical and neuroimaging expression of limbic-predominant age-related TDP-43 pathology in Alzheimer's disease",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.10.15.26365384v1?rss=1",
+      "title": "Resting state fMRI detects pathological functional brain connectivity in the Ndufs4 knockout mouse model of Leigh syndrome during the pre-symptomatic stage of the disease",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.22.760059v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "A digital biomarker of white-matter routing from diffusion MRI as an early biomarker of Alzheimer's disease",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.10.21.26366165v1?rss=1",
       "date": null,
       "source": "medRxiv neurology",
       "filter": "neurology"
     },
     {
-      "title": "Longitudinal fMRI reveals altered developmental trajectories of functional network organisation associated with adolescent cannabis use",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.20.760368v1?rss=1",
+      "title": "Radiological Phenotypes of Acute Brain Injury During Extracorporeal Membrane Oxygenation on Ultra-Low-Field Portable MRI",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.10.21.26366184v1?rss=1",
       "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Forward reactivation in human hippocampal CA1 supports repetition learning and is preserved in the aging brain",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.20.760541v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
+      "source": "medRxiv neurology",
+      "filter": "neurology"
     },
     {
       "title": "Plasma biomarkers and incident clinical stage progression in the specialized memory clinic: a longitudinal study",
@@ -38,39 +38,74 @@
       "filter": "neurology"
     },
     {
-      "title": "Predictive modeling for stroke using routine clinical and socio-demographic data in Uganda",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.10.19.26365927v1?rss=1",
+      "title": "Reduced-observable dynamic mode decomposition for identifying theta and beta activity in working-memory EEG",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.20.760227v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "From hours to days: prolonging the functional viability of acute brain slices to >36 h",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.23.760385v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "The role of contextual similarity on brain activity patterns for associated events",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.19.760268v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "When are population connectome harmonics adequate representations of individual brains?",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.19.760258v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Resistance-Mutant Rescue Establishes On-Target CHI3L1 Inhibition by CHI-DEL, a Brain-Penetrant Small Molecule with In Vivo Efficacy in Glioblastoma",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.20.760326v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Targeting the RNA regulator HuR in acute traumatic brain injury mitigates secondary injury and improves functional outcome by suppressing neuroinflammation",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.22.761057v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Plasma eMTBR-tau as a marker of clinical stage and progression across the Alzheimer's disease continuum",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.10.21.26366056v1?rss=1",
       "date": null,
       "source": "medRxiv neurology",
       "filter": "neurology"
     },
     {
-      "title": "Ascorbic Acid (Vitamin C) Attenuates Dichlorvos-Induced Neurobehavioral and Oxido-Inflammatory Stress in Discrete Brain Regions",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.22.760251v1?rss=1",
+      "title": "Age and sex impact resting-state EEG aperiodic activity beyond symptom associations in persistent post-concussive symptoms",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.10.22.26366086v1?rss=1",
       "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
+      "source": "medRxiv neurology",
+      "filter": "neurology"
     },
     {
-      "title": "CDKL5 deficiency alters cell subtype-specific molecular programmes and intercellular signalling in the mouse hippocampus",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.22.760890v1?rss=1",
+      "title": "Genetic susceptibility to Lewy body disease and the distribution of Lewy pathology",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.10.21.26366146v1?rss=1",
       "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
+      "source": "medRxiv neurology",
+      "filter": "neurology"
     },
     {
-      "title": "Brain pericytes are an oxidative stress-sensitive cell population damaged through ROS-1 dependent TRPA1 activation.",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.19.760199v1?rss=1",
+      "title": "Cognitive Trajectories of Post-Stroke Delirium: Longitudinal Global and Domain-Specific Impairment and Digital Markers",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.10.21.26366183v1?rss=1",
       "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Modelling prodromal Parkinson's disease- gastrointestinal pathology and early motor deficits in mice after transient rotenone exposure",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.23.761386v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
+      "source": "medRxiv neurology",
+      "filter": "neurology"
     },
     {
       "title": "Greater scaling and less flexible timing of cortical responses during challenging reactive balance after stroke",
@@ -157,99 +192,64 @@
       "filter": "neurology"
     },
     {
-      "title": "Concussion, Attention, and Mental Health: A Brain Network Study in Youth (CAMBY) - Study Protocol",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.10.14.26365111v1?rss=1",
-      "date": null,
-      "source": "medRxiv neurology",
-      "filter": "neurology"
-    },
-    {
-      "title": "APOE ε4 Modifies the Association of Left Atrial Remodeling With Brain Aging",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.10.14.26365550v1?rss=1",
-      "date": null,
-      "source": "medRxiv neurology",
-      "filter": "neurology"
-    },
-    {
-      "title": "Persistent gut microbiota alterations after ischemic stroke are modifiable by probiotic intervention",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.10.15.26365107v1?rss=1",
-      "date": null,
-      "source": "medRxiv neurology",
-      "filter": "neurology"
-    },
-    {
-      "title": "Renovascular hypertension drives ischemic white matter injury via brain endothelial AT1R signaling",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.10.15.26365689v1?rss=1",
-      "date": null,
-      "source": "medRxiv neurology",
-      "filter": "neurology"
-    },
-    {
-      "title": "Interictal functional ultrasound imaging in human epilepsy resection and responsive neurostimulation surgery",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.10.15.26365563v1?rss=1",
-      "date": null,
-      "source": "medRxiv neurology",
-      "filter": "neurology"
-    },
-    {
-      "title": "Cisplatin Exposure Alters the Effects of Honokiol on Genes Involved in Outer Hair Cell Physiological Function",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.22.761060v1?rss=1",
+      "title": "Cone outer segment renewal in vivo involves progressive particle formation at the photoreceptor-RPE interface",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.22.760941v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Neurofibromin Regulates Sleep Consolidation via Cholinergic Neurons in a Drosophila Model of Neurofibromatosis 1",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.20.760518v1?rss=1",
+      "title": "RnR-ExM: Robust Non-rigid Registration Challenge for Expansion Microscopy Volumes",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.22.760871v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Live-cell imaging of fetal microglia reveals time-dependent sex differences in their responsiveness to prenatal maternal stress",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.23.761383v1?rss=1",
+      "title": "Adrenal remodeling encodes stress axis memory to shape fentanyl seeking",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.20.760432v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Gamma-frequency firing persistently enhances intrinsic excitability in retinal ganglion cells",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.22.760873v1?rss=1",
+      "title": "Astrocytic ablation of truncated TrkB receptors reduces amyloid plaques and prevents synaptic loss in 5xFAD mice",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.20.760443v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Serpin A3 is Increased in Cerebral Amyloid Angiopathy and ARIA",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.19.759840v1?rss=1",
+      "title": "Glutamatergic Neurons in caudal Pontine Reticular Nucleus (PRNc) Mediate Backward Locomotion in mice",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.22.761180v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Temporal Proteomics Links the APP London Mutation to Early Cholesterol Remodeling Cell Programs in Human Neurons",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.20.760505v1?rss=1",
+      "title": "Transient noradrenergic signals act as online controllers of perceptual computation",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.21.760810v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Prevention of prion disease symptoms in mice with deep PrP lowering",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.22.761034v1?rss=1",
+      "title": "`Silent' mitral cells emerge from common feature subtraction",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.22.761107v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Central Glucagon-Like Peptide-1 Agonism Ameliorates Colonic Inflammation in a Murine Model of Inflammatory Bowel Disease",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.22.761061v1?rss=1",
+      "title": "Human cortical slices reveal pulse-number-dependent synaptic plasticity during theta-burst magnetic stimulation",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.23.761311v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "An extracellular substrate for the temporary storage of memories",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.23.760812v1?rss=1",
+      "title": "Microglia support regeneration of rod photoreceptors in larval zebrafish retina through Nrf2-independent mechanisms",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.22.761077v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
