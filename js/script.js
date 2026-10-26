@@ -1,5 +1,5 @@
-const RECOMMENDED_LINKS_KEY = "inziraLabsRecommendedLinks";
-const PLATFORM_LINK_SETS = "inziraLabsPlatformLinkSetsV1";
+const RECOMMENDED_LINKS_KEY = "diraRecommendedLinks";
+const PLATFORM_LINK_SETS = "diraPlatformLinkSetsV1";
 
 const PLATFORM_GATES = {
   "nir-desktop": {
@@ -162,7 +162,7 @@ async function submitLicenseRequest(event) {
     email: formData.get("email"),
     institution: formData.get("institution"),
     purpose: formData.get("purpose"),
-    source: "inzira-labs-landing",
+    source: "dira-landing",
     submittedAt: new Date().toISOString(),
   };
 
@@ -199,7 +199,7 @@ async function submitLicenseRequest(event) {
       throw lastErr || new Error("No reachable license service endpoint.");
     }
     const result = await response.json().catch(() => ({}));
-    localStorage.setItem("inziraLabsLastLicenseRequest", JSON.stringify(payload));
+    localStorage.setItem("diraLastLicenseRequest", JSON.stringify(payload));
     statusEl.textContent =
       result.message ||
       "License generated and emailed. Check your inbox for secure download links.";

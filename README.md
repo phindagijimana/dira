@@ -1,6 +1,6 @@
-# Inzira Labs Landing Site
+# Dira Landing Site
 
-This is a standalone landing site for **Inzira Labs (Translating Biomedical Research to Usable Tools)**.
+This is a standalone landing site for **Dira (Translating Biomedical Research to Usable Tools)**.
 
 It is modeled after the structure/style used in the ZeroGap landing repo and is intentionally isolated inside this repository at:
 
@@ -8,7 +8,7 @@ It is modeled after the structure/style used in the ZeroGap landing repo and is 
 
 ## What it does
 
-- shows Inzira Labs pages in order: `Home` → `R&D` (platforms NIR + installers on same page) → `Builder Review` → `Our Team` (team + contact) → `News`, plus `GitHub`
+- shows Dira pages in order: `Home` → `R&D` (platforms NIR + installers on same page) → `Builder Review` → `Our Team` (team + contact) → `News`, plus `GitHub`
 - lists NIR as one of the platform services
 - enforces a **pre-download license request form** before redirecting users to NIR downloads
 - collects:

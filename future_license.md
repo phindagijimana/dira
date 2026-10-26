@@ -92,7 +92,7 @@ The license file format (`license.txt`):
 
 ```
 INZIRA_LABS_LICENSE_V1
-license_id=inzira-<uuid>
+license_id=dira-<uuid>
 product=<platform>
 target_os=<linux|windows|macos>
 name=<name>

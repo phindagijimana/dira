@@ -1,6 +1,6 @@
 # Builder Review — BLAST-CT (Monteiro et al. 2020) + local deployment
 
-*Bundled for the Inzira site; same text as* [github.com/…/Blast-CT-implementation/…/blast_br.md](https://github.com/phindagijimana/Blast-CT-implementation/blob/main/review/blast_br.md) *(`main`).*
+*Bundled for the Dira site; same text as* [github.com/…/Blast-CT-implementation/…/blast_br.md](https://github.com/phindagijimana/Blast-CT-implementation/blob/main/review/blast_br.md) *(`main`).*
 
 ---
 

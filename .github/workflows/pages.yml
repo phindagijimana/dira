@@ -1,4 +1,4 @@
-name: Deploy Inzira Labs to GitHub Pages
+name: Deploy Dira to GitHub Pages
 
 on:
   push:

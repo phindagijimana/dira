@@ -48,7 +48,7 @@ DATA_DIR.mkdir(parents=True, exist_ok=True)
 REQUEST_LOG = DATA_DIR / "license_requests.jsonl"
 ACTIVITY_CSV = DATA_DIR / "license_activity.csv"
 
-app = FastAPI(title="Inzira Labs License Service", version="0.1.0")
+app = FastAPI(title="Dira License Service", version="0.1.0")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=ALLOWED_ORIGINS,
@@ -65,7 +65,7 @@ class LicenseRequest(BaseModel):
     email: EmailStr
     institution: str = Field(min_length=2, max_length=200)
     purpose: str = Field(min_length=5, max_length=1500)
-    source: str = Field(default="inzira-labs-landing", max_length=64)
+    source: str = Field(default="dira-landing", max_length=64)
     submittedAt: str
 
 
@@ -247,7 +247,7 @@ def parse_download_token(token: str) -> Dict[str, Any]:
 def build_license_text(req: LicenseRequest) -> str:
     issued_at = datetime.now(timezone.utc)
     expires_at = issued_at + timedelta(days=90)
-    license_id = f"inzira-{uuid.uuid4()}"
+    license_id = f"dira-{uuid.uuid4()}"
     payload = {
         "license_id": license_id,
         "product": req.requestedPlatform,
@@ -290,7 +290,7 @@ async def send_email_with_license(
 
     attachment_name = "nir_license.txt"
     encoded = base64.b64encode(license_text.encode("utf-8")).decode("utf-8")
-    subject = f"Inzira Labs License - {req.requestedPlatform} ({req.targetOS})"
+    subject = f"Dira License - {req.requestedPlatform} ({req.targetOS})"
     download_links_html = ""
     secure_links = secure_links if secure_links is not None else []
     recommended_links = recommended_links if recommended_links is not None else []
@@ -325,7 +325,7 @@ async def send_email_with_license(
     <p>Selected operating system: <strong>{req.targetOS}</strong></p>
     <p>Your license file is attached as <code>{attachment_name}</code>.</p>
     {download_links_html}
-    <p>Regards,<br/>Inzira Labs</p>
+    <p>Regards,<br/>Dira</p>
     """
 
     body = {
@@ -566,7 +566,7 @@ async def request_license(req: LicenseRequest, request: Request) -> dict:
         raise HTTPException(status_code=502, detail=f"License dispatch failed: {exc}") from exc
 
 
-# Serve the Inzira Labs static website (repo root) from the same service.
+# Serve the Dira static website (repo root) from the same service.
 # Mounted LAST so API routes (/health, /api/..., /download/...) are matched first.
 # html=True makes "/" serve index.html and resolve directory paths.
 #

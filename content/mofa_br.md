@@ -1,6 +1,6 @@
 # Builder Review — MOFA (Argelaguet et al. 2018) + MOFA_Omics
 
-**Builder Review** in the Inzira style (reproducibility, performance, fit, clinical research use, interpretability, integration, limits, builder takeaway). A [MOFA_implement](https://github.com/phindagijimana/MOFA_implement) workspace can **ground** practical notes; the **paper** and **MOFA2** are the review target, not a separate product audit.
+**Builder Review** in the Dira style (reproducibility, performance, fit, clinical research use, interpretability, integration, limits, builder takeaway). A [MOFA_implement](https://github.com/phindagijimana/MOFA_implement) workspace can **ground** practical notes; the **paper** and **MOFA2** are the review target, not a separate product audit.
 
 **Paper:** Argelaguet R, *et al.* *Multi-omics factor analysis: a framework for unsupervised integration of multi-omics data sets.* *Mol Syst Biol.* 2018;14:e8124. https://doi.org/10.15252/msb.20178124
 

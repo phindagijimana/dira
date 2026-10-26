@@ -1,4 +1,4 @@
-# Inzira Labs License Service (No-Admin, Auto-Issue, Private Download Proxy)
+# Dira License Service (No-Admin, Auto-Issue, Private Download Proxy)
 
 This service receives landing-page form submissions, auto-generates a
 `license.txt`, emails it to the requester, and includes **time-limited secure
@@ -28,7 +28,7 @@ Request body:
   "email": "jane@example.org",
   "institution": "Example University",
   "purpose": "Clinical neuroimaging research workflows.",
-  "source": "inzira-labs-landing",
+  "source": "dira-landing",
   "submittedAt": "2026-03-13T05:00:00Z"
 }
 ```
