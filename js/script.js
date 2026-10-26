@@ -5,12 +5,12 @@ const PLATFORM_GATES = {
   "nir-desktop": {
     statusId: "downloads-gate-status",
     boxId: "downloads-unlocked-links",
-    product: "NI",
+    product: "NIR",
   },
   bidshub: {
     statusId: "bidshub-gate-status",
     boxId: "bidshub-unlocked-links",
-    product: "BIDSHub",
+    product: "BIDSHUB",
   },
 };
 
