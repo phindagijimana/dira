@@ -82,7 +82,7 @@ commands targeting `license-service/`.
 3. Deploy and verify:
    - `GET https://<your-railway-domain>/health` returns `{"ok": true}`.
 4. Update landing endpoint config in `index.html`:
-   - set `window.INZIRA_LICENSE_ENDPOINTS` to include your Railway URL
+   - set `window.DIRA_LICENSE_ENDPOINTS` to include your Railway URL
      (`https://<your-railway-domain>/api/license/request`).
 
 ## Landing site integration
@@ -90,7 +90,7 @@ commands targeting `license-service/`.
 In `../js/script.js`, set:
 
 ```js
-window.INZIRA_LICENSE_ENDPOINT = "https://<your-service-domain>/api/license/request";
+window.DIRA_LICENSE_ENDPOINT = "https://<your-service-domain>/api/license/request";
 ```
 
 or change the constant directly.

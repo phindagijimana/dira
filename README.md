@@ -2,10 +2,6 @@
 
 This is a standalone landing site for **Dira (Translating Biomedical Research to Usable Tools)**.
 
-It is modeled after the structure/style used in the ZeroGap landing repo and is intentionally isolated inside this repository at:
-
-- `src/inzira-labs/`
-
 ## What it does
 
 - shows Dira pages in order: `Home` → `R&D` (platforms NIR + installers on same page) → `Builder Review` → `Our Team` (team + contact) → `News`, plus `GitHub`
@@ -60,7 +56,7 @@ You can deploy the license backend on Railway using the included
 
 ## Local preview
 
-Open `index.html` directly, or serve with a static server from `src/inzira-labs`.
+Open `index.html` directly, or serve with a static server from this repository root.
 
 ## GitHub Hosting (Pages)
 
@@ -82,4 +78,4 @@ If the public site looks outdated after a push, check the **Actions** tab for a 
 
 Your site URL will be:
 
-- `https://phindagijimana.github.io/inzira-labs/`
+- `https://phindagijimana.github.io/dira/`

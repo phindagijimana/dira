@@ -44,7 +44,7 @@ submitted. Set them in **Railway → your service → Variables**:
 | Variable | Required | Purpose |
 |---|---|---|
 | `RESEND_API_KEY` | ✅ | Resend API key for sending the license email |
-| `RESEND_FROM_EMAIL` | ✅ | Verified sender, e.g. `licenses@inzira-labs.com` |
+| `RESEND_FROM_EMAIL` | ✅ | Verified sender, e.g. `dira@zerogap.tech` |
 | `LICENSE_SIGNING_SECRET` | ✅ | Secret used to HMAC-sign licenses and download tokens. **Pick a strong random value and keep it stable** — changing it invalidates all previously issued licenses. |
 | `GITHUB_TOKEN` | ✅ (for downloads) | PAT with read access to the private release repo |
 | `GITHUB_REPO` | ✅ (for downloads) | e.g. `phindagijimana/neuroinsight_research` |
@@ -72,9 +72,8 @@ by Railway it hits the same host with no hardcoded URL or CORS:
 ```js
 // js/script.js → getLicenseServiceEndpoints()
 return [
-  "/api/license/request",                                   // same-origin (Railway)
-  "https://license.inzira-labs.com/api/license/request",    // fallback
-  "https://inzira-labs-license-service.onrender.com/api/license/request",
+  "/api/license/request",                      // same-origin (Railway)
+  "https://dira.up.railway.app/api/license/request",
 ];
 ```
 
@@ -91,7 +90,7 @@ license file; the desktop app must **verify** it on startup/activation.
 The license file format (`license.txt`):
 
 ```
-INZIRA_LABS_LICENSE_V1
+DIRA_LICENSE_V1
 license_id=dira-<uuid>
 product=<platform>
 target_os=<linux|windows|macos>

@@ -265,7 +265,7 @@ def build_license_text(req: LicenseRequest) -> str:
     ).hexdigest()
 
     return (
-        "INZIRA_LABS_LICENSE_V1\n"
+        "DIRA_LICENSE_V1\n"
         f"license_id={license_id}\n"
         f"product={req.requestedPlatform}\n"
         f"target_os={req.targetOS}\n"

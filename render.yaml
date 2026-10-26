@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: inzira-labs-license-service
+    name: dira-license-service
     runtime: python
     rootDir: license-service
     buildCommand: pip install -r requirements.txt

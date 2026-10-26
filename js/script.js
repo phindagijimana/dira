@@ -43,18 +43,17 @@ function saveAllPlatformLinks(sets) {
 }
 
 function getLicenseServiceEndpoints() {
-  if (Array.isArray(window.INZIRA_LICENSE_ENDPOINTS) && window.INZIRA_LICENSE_ENDPOINTS.length) {
-    return window.INZIRA_LICENSE_ENDPOINTS.filter(Boolean);
+  if (Array.isArray(window.DIRA_LICENSE_ENDPOINTS) && window.DIRA_LICENSE_ENDPOINTS.length) {
+    return window.DIRA_LICENSE_ENDPOINTS.filter(Boolean);
   }
-  if (window.INZIRA_LICENSE_ENDPOINT) {
-    return [window.INZIRA_LICENSE_ENDPOINT];
+  if (window.DIRA_LICENSE_ENDPOINT) {
+    return [window.DIRA_LICENSE_ENDPOINT];
   }
   return [
     // Same-origin: when the site is served by the license backend (e.g. Railway),
     // this posts to the serving host with no hardcoded domain or CORS.
     "/api/license/request",
-    "https://license.inzira-labs.com/api/license/request",
-    "https://inzira-labs-license-service.onrender.com/api/license/request",
+    "https://dira.up.railway.app/api/license/request",
   ];
 }
 

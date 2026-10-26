@@ -14,7 +14,7 @@ from typing import Any
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
-USER_AGENT = "DiraNewsFeed/1.0 (+https://github.com/phindagijimana/inzira-labs)"
+USER_AGENT = "DiraNewsFeed/1.0 (+https://github.com/phindagijimana/dira)"
 CACHE_TTL = timedelta(hours=int(os.getenv("NEWS_FEED_CACHE_HOURS", "6")))
 
 _cache: dict[str, Any] | None = None
