@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-10-26T17:04:43Z",
+  "fetchedAt": "2026-10-27T16:07:39Z",
   "itemCount": 36,
   "items": [
+    {
+      "title": "CFBrainAug: Modularity-Induced Counterfactual Brain Network Augmentation for Interpretable fMRI-based Autism Diagnosis",
+      "url": "https://arxiv.org/abs/2610.32184",
+      "date": "2026-10-27",
+      "source": "arXiv cs.LG",
+      "filter": "methods"
+    },
     {
       "title": "EEG Biomarkers for Rett Syndrome: A Comparative Analysis of Machine Learning and Deep Learning with Explainable AI",
       "url": "https://www.medrxiv.org/content/10.64898/2026.10.21.26366077v1?rss=1",
@@ -10,15 +17,85 @@
       "filter": "neurology"
     },
     {
-      "title": "BrainRotViT: Transformer-ResNet Hybrid for Explainable Modeling of Brain Aging from 3D sMRI",
-      "url": "https://arxiv.org/abs/2511.15188",
-      "date": "2026-10-26",
+      "title": "Toward Clinical Translation of Deep Learning-Based Intracranial Super-Resolution 4D Flow MRI Using Multi-Cohort Transfer Learning",
+      "url": "https://arxiv.org/abs/2610.35396",
+      "date": "2026-10-27",
       "source": "arXiv cs.CV",
       "filter": "methods"
     },
     {
-      "title": "From micro-architecture to networks: canonical neurobiological architecture of functional brain organization across the lifespan and in psychopathology",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.22.761188v1?rss=1",
+      "title": "Deep Learning-Based Prediction of HER2 Status from Whole-Brain MRI in Breast Cancer Brain Metastases",
+      "url": "https://arxiv.org/abs/2610.32774",
+      "date": "2026-10-27",
+      "source": "arXiv cs.LG",
+      "filter": "methods"
+    },
+    {
+      "title": "End-to-end prostate lesion segmentation and detection from undersampled diffusion-weighted MRI",
+      "url": "https://arxiv.org/abs/2610.33554",
+      "date": "2026-10-27",
+      "source": "arXiv cs.CV",
+      "filter": "methods"
+    },
+    {
+      "title": "An Agentic AI Workflow for Liver Lesion Segmentation and Structured Radiology Reporting",
+      "url": "https://arxiv.org/abs/2610.34599",
+      "date": "2026-10-27",
+      "source": "arXiv cs.CV",
+      "filter": "methods"
+    },
+    {
+      "title": "Interpretable Brain Age Prediction Using White Matter Fiber Orientation Distributions with Rotation-Equivariant Deep Learning",
+      "url": "https://arxiv.org/abs/2610.34825",
+      "date": "2026-10-27",
+      "source": "arXiv cs.CV",
+      "filter": "methods"
+    },
+    {
+      "title": "Masked and Predictive Self-Supervised Pretraining for Brain MRI: Effects of Objective Design on Disease Detection",
+      "url": "https://arxiv.org/abs/2606.13315",
+      "date": "2026-10-27",
+      "source": "arXiv cs.CV",
+      "filter": "methods"
+    },
+    {
+      "title": "Counterfactual Context Auditing for Glioma Segmentation Failure Detection Across MRI Datasets",
+      "url": "https://arxiv.org/abs/2607.07038",
+      "date": "2026-10-27",
+      "source": "arXiv cs.CV",
+      "filter": "methods"
+    },
+    {
+      "title": "How Far from Clinical Deployment? Evaluating the Complete Unsupervised Domain Adaptation Pipeline in Medical Imaging",
+      "url": "https://arxiv.org/abs/2608.12035",
+      "date": "2026-10-27",
+      "source": "arXiv cs.CV",
+      "filter": "methods"
+    },
+    {
+      "title": "Align, Then Adapt: Few-Shot fMRI Visual Reconstruction For New Subjects",
+      "url": "https://arxiv.org/abs/2505.01670",
+      "date": "2026-10-27",
+      "source": "arXiv cs.CV",
+      "filter": "methods"
+    },
+    {
+      "title": "BrainRotViT: Transformer-ResNet Hybrid for Explainable Modeling of Brain Aging from 3D sMRI",
+      "url": "https://arxiv.org/abs/2511.15188",
+      "date": "2026-10-27",
+      "source": "arXiv cs.LG",
+      "filter": "methods"
+    },
+    {
+      "title": "Dementia-R1: Reinforced Pretraining and Reasoning from Unstructured Clinical Notes for Real-World Dementia Prognosis",
+      "url": "https://arxiv.org/abs/2601.03018",
+      "date": "2026-10-27",
+      "source": "arXiv cs.LG",
+      "filter": "methods"
+    },
+    {
+      "title": "Genedex: Contextualizing gene signatures across Alzheimer's disease pathology, cell types, and brain regions",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.26.761919v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
@@ -38,231 +115,146 @@
       "filter": "neurology"
     },
     {
-      "title": "Automated Nucleus Segmentation in Histology Images: An Attention U-Net Approach with Comprehensive Preprocessing and Inference Pipelines",
-      "url": "https://arxiv.org/abs/2610.31902",
-      "date": "2026-10-26",
+      "title": "Aerial-R1: Reinforcing Aerial Reasoning and Segmentation in MLLMs",
+      "url": "https://arxiv.org/abs/2610.33056",
+      "date": "2026-10-27",
       "source": "arXiv cs.CV",
       "filter": "methods"
     },
     {
-      "title": "Forging Emotions: a deep learning experiment on emotions and art",
-      "url": "https://arxiv.org/abs/2610.32163",
-      "date": "2026-10-26",
+      "title": "DRA-SAM: Disagreement-Driven Referential Active SAM for Low-Altitude Drone Referring Segmentation",
+      "url": "https://arxiv.org/abs/2610.33057",
+      "date": "2026-10-27",
       "source": "arXiv cs.CV",
       "filter": "methods"
     },
     {
-      "title": "Hyperparameter-Free Boundary-Interior t-vMF Dice Loss for Medical Image Segmentation",
-      "url": "https://arxiv.org/abs/2610.32266",
-      "date": "2026-10-26",
+      "title": "MOSAIC: Towards a Universal Latent Space for Computational Pathology Foundation Models",
+      "url": "https://arxiv.org/abs/2610.33059",
+      "date": "2026-10-27",
       "source": "arXiv cs.CV",
       "filter": "methods"
     },
     {
-      "title": "Polyp-VSSD: A Pre-trained Transformer with Local-Global Joint VSSD Decoding for Polyp Segmentation",
-      "url": "https://arxiv.org/abs/2610.32282",
-      "date": "2026-10-26",
+      "title": "ProtoEEG: Structured Prototype Alignment for EEG Visual Decoding",
+      "url": "https://arxiv.org/abs/2610.33065",
+      "date": "2026-10-27",
       "source": "arXiv cs.CV",
       "filter": "methods"
     },
     {
-      "title": "Sam-Correction: Fully Adaptive Label Noise Reduction for Medical Image Segmentation",
-      "url": "https://arxiv.org/abs/2610.32377",
-      "date": "2026-10-26",
+      "title": "DuoPIC: Uncertainty-Aware Voxel-Level Digital Twins of Cerebral Perfusion with Transport PDEs in Acute Stroke",
+      "url": "https://arxiv.org/abs/2610.33071",
+      "date": "2026-10-27",
       "source": "arXiv cs.CV",
       "filter": "methods"
     },
     {
-      "title": "PathJev: Decision-Native Vision-Language Modelling for Histopathology",
-      "url": "https://arxiv.org/abs/2610.32478",
-      "date": "2026-10-26",
+      "title": "SWIFT-Cell: Segmentation Without Iterative Flow Tracking",
+      "url": "https://arxiv.org/abs/2610.33081",
+      "date": "2026-10-27",
       "source": "arXiv cs.CV",
       "filter": "methods"
     },
     {
-      "title": "L0-Norm-Based CycleGAN for Unpaired Brain CT-to-MR Synthesis",
-      "url": "https://arxiv.org/abs/2610.32491",
-      "date": "2026-10-26",
+      "title": "Learning Pathology-Sensitive Representations for Unsupervised Retinal OCT Anomaly Detection",
+      "url": "https://arxiv.org/abs/2610.33143",
+      "date": "2026-10-27",
       "source": "arXiv cs.CV",
       "filter": "methods"
     },
     {
-      "title": "K-CLUE: A Segmentation-to-Clustering Framework for Ki67 Cell Typing",
-      "url": "https://arxiv.org/abs/2610.32493",
-      "date": "2026-10-26",
+      "title": "Automated identification of ivory carvings using machine learning: A proof-of-concept approach to detecting the illegal wildlife trade",
+      "url": "https://arxiv.org/abs/2610.33243",
+      "date": "2026-10-27",
       "source": "arXiv cs.CV",
       "filter": "methods"
     },
     {
-      "title": "Hair Segmentation and Skin Characterization on Macroscopic Dermatological Images for Laser Treatment Parameterization",
-      "url": "https://arxiv.org/abs/2610.32609",
-      "date": "2026-10-26",
+      "title": "How Robust Are CNNs and Vision Transformers for Alzheimer's MRI Classification Across Datasets?",
+      "url": "https://arxiv.org/abs/2610.33416",
+      "date": "2026-10-27",
       "source": "arXiv cs.CV",
       "filter": "methods"
     },
     {
-      "title": "DriveOSS: Dataset and Benchmark for 3D Anomaly Segmentation and Open-set Semantic Segmentation in Autonomous Driving",
-      "url": "https://arxiv.org/abs/2610.32612",
-      "date": "2026-10-26",
+      "title": "Energy Efficient Lung Tumor Segmentation with a modified CBAM ENet Skip Model",
+      "url": "https://arxiv.org/abs/2610.33479",
+      "date": "2026-10-27",
       "source": "arXiv cs.CV",
       "filter": "methods"
     },
     {
-      "title": "STROKE: Simple Sparse Structural Occlusions for Black-Box Adversarial Attacks",
-      "url": "https://arxiv.org/abs/2610.32932",
-      "date": "2026-10-26",
+      "title": "FreqPKC: Frequency-Aware PeakConv for Radar Semantic Segmentation",
+      "url": "https://arxiv.org/abs/2610.33504",
+      "date": "2026-10-27",
       "source": "arXiv cs.CV",
       "filter": "methods"
     },
     {
-      "title": "OPTARI: An open-source software framework for clinical translation of optoacoustic imaging",
-      "url": "https://arxiv.org/abs/2610.32468",
-      "date": "2026-10-26",
+      "title": "Cross-Scale Sparse Attention for Referring Segmentation in Remote Sensing",
+      "url": "https://arxiv.org/abs/2610.33551",
+      "date": "2026-10-27",
       "source": "arXiv cs.CV",
       "filter": "methods"
     },
     {
-      "title": "Superpixel-Based Image Segmentation Using Squared 2-Wasserstein Distances",
-      "url": "https://arxiv.org/abs/2601.17071",
-      "date": "2026-10-26",
+      "title": "ZoomSEM: accelerating large-scale brain connectomics with intelligent SEM super-resolution",
+      "url": "https://arxiv.org/abs/2610.33580",
+      "date": "2026-10-27",
       "source": "arXiv cs.CV",
       "filter": "methods"
     },
     {
-      "title": "Deep learning enables urban change profiling through alignment of historical maps",
-      "url": "https://arxiv.org/abs/2602.02154",
-      "date": "2026-10-26",
+      "title": "UltraFlash: Accelerating Megapixel Visual Synthesis",
+      "url": "https://arxiv.org/abs/2610.33581",
+      "date": "2026-10-27",
       "source": "arXiv cs.CV",
       "filter": "methods"
     },
     {
-      "title": "IGLOSS: Image Generation for Lidar Open-vocabulary Semantic Segmentation",
-      "url": "https://arxiv.org/abs/2604.01361",
-      "date": "2026-10-26",
+      "title": "DROA-CLIPSeg: Prompt-Guided Thin Crack Segmentation in Low-Light Conditions",
+      "url": "https://arxiv.org/abs/2610.33635",
+      "date": "2026-10-27",
       "source": "arXiv cs.CV",
       "filter": "methods"
     },
     {
-      "title": "SetCon: Towards Open-Ended Referring Segmentation via Set-Level Concept Prediction",
-      "url": "https://arxiv.org/abs/2605.20110",
-      "date": "2026-10-26",
+      "title": "PathKGen: Pathology Knowledge Assisted MLLM for Explainable Histopathology",
+      "url": "https://arxiv.org/abs/2610.33691",
+      "date": "2026-10-27",
       "source": "arXiv cs.CV",
       "filter": "methods"
     },
     {
-      "title": "Latent space configuration for neural network finetuning, fast ranking, and embedding dimensionality reduction",
-      "url": "https://arxiv.org/abs/2610.29295",
-      "date": "2026-10-26",
+      "title": "Scalable Unrolled Chains for MRI Reconstruction",
+      "url": "https://arxiv.org/abs/2610.33695",
+      "date": "2026-10-27",
       "source": "arXiv cs.CV",
       "filter": "methods"
     },
     {
-      "title": "Phase-based Edge Coupling: Modeling Overlapping Functional Architectures and High-Order Edge-to-Edge Interactions in EEG Networks",
-      "url": "https://arxiv.org/abs/2610.32286",
-      "date": "2026-10-26",
-      "source": "arXiv q-bio.NC",
+      "title": "Segmentation of Moving Objects During Camera Motion Using the OWL Function",
+      "url": "https://arxiv.org/abs/2610.33789",
+      "date": "2026-10-27",
+      "source": "arXiv cs.CV",
       "filter": "methods"
     },
     {
-      "title": "From Heterogeneity to Function: Enhanced Modular Dynamic Range in Hierarchical Brain Networks",
-      "url": "https://arxiv.org/abs/2610.32328",
-      "date": "2026-10-26",
-      "source": "arXiv q-bio.NC",
+      "title": "GeoPrompt: Geometry-Conditioned Prompt Learning for Underwater Open-Vocabulary Instance Segmentation",
+      "url": "https://arxiv.org/abs/2610.34190",
+      "date": "2026-10-27",
+      "source": "arXiv cs.CV",
       "filter": "methods"
     },
     {
-      "title": "Hodge-Decomposition of Brain Networks",
-      "url": "https://arxiv.org/abs/2211.10542",
-      "date": "2026-10-26",
-      "source": "arXiv q-bio.NC",
+      "title": "On Detection Reliability for Small Object Segmentation",
+      "url": "https://arxiv.org/abs/2610.34432",
+      "date": "2026-10-27",
+      "source": "arXiv cs.CV",
       "filter": "methods"
-    },
-    {
-      "title": "Postsynaptic TAK1-GluN2B axis supports hippocampal synaptic integrity and cognitive function during aging",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.25.761716v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "A clinically identified Kirrel3 variant disrupts trans-synaptic circuit assembly",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.20.760423v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "High-dimensional hippocampus representation facilitates learning of low-dimensional abstract representation and supports generalization",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.24.761577v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Anti-GABAB receptor autoimmunity causes cognitive decline by presynaptic pathology",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.22.761036v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Reduced-observable dynamic mode decomposition for identifying theta and beta activity in working-memory EEG",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.20.760227v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "From hours to days: prolonging the functional viability of acute brain slices to >36 h",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.23.760385v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "The role of contextual similarity on brain activity patterns for associated events",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.19.760268v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Lesions causing room tilt illusion link a cerebello-cingulate brain network to verticality perception",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.10.26.26365825v1?rss=1",
-      "date": null,
-      "source": "medRxiv neurology",
-      "filter": "neurology"
-    },
-    {
-      "title": "Bern Sleep-Wake Registry: temporal extraction of comorbidities from unstructured clinical text using a large language model",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.10.25.26364496v1?rss=1",
-      "date": null,
-      "source": "medRxiv neurology",
-      "filter": "neurology"
-    },
-    {
-      "title": "Aspirin-Containing Antiplatelet Therapy and In-Hospital Gout Flares in Acute Ischemic Stroke Patients with Gout and Hyperuricemia: A Retrospective New-User Cohort Study",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.10.23.26366257v1?rss=1",
-      "date": null,
-      "source": "medRxiv neurology",
-      "filter": "neurology"
-    },
-    {
-      "title": "Plasma eMTBR-tau as a marker of clinical stage and progression across the Alzheimer's disease continuum",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.10.21.26366056v1?rss=1",
-      "date": null,
-      "source": "medRxiv neurology",
-      "filter": "neurology"
     }
   ],
-  "authorItems": [
-    {
-      "title": "MRI derived hippocampal asymmetry identifies hippocampal sclerosis in epilepsy surgical specimens.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42676852/",
-      "date": "2026-01-01",
-      "journal": "Brain communications",
-      "source": "PubMed"
-    }
-  ],
+  "authorItems": [],
   "live": true
 }
