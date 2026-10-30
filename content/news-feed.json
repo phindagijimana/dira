@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-29T17:13:46Z",
+  "fetchedAt": "2026-10-30T16:54:28Z",
   "itemCount": 36,
   "items": [
     {
@@ -10,18 +10,18 @@
       "filter": "neurology"
     },
     {
-      "title": "Neuroprotective activity of sub-anesthetic ketamine in a preclinical model of Parkinson's disease is not blocked by antagonizing brain-derived neurotrophic factor signaling",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.28.762430v1?rss=1",
+      "title": "A preclinical platform for focused ultrasound delivery from microplate to awake brain",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.23.760846v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Towards a scalable effective connectivity estimation in fMRI",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.26.761780v1?rss=1",
+      "title": "Same pipelines, different answers: how evaluation design shapes EEG seizure prediction",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.10.28.26366763v1?rss=1",
       "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
+      "source": "medRxiv neurology",
+      "filter": "neurology"
     },
     {
       "title": "Brain-Derived pTau217 and Plasma Proteomic Profiles Across Cognitive and Dementia Groups in Congolese Older Adults",
@@ -38,6 +38,62 @@
       "filter": "neurology"
     },
     {
+      "title": "Robustness of MEG source imaging in pediatric patients with surgical cavities: A case series.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42953325/",
+      "date": "2026-12-01",
+      "source": "NeuroImage",
+      "filter": "neuroimaging"
+    },
+    {
+      "title": "Multiple instance learning for differentiating neoplastic and non-neoplastic brain lesions using MR spectroscopy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42927027/",
+      "date": "2026-12-01",
+      "source": "NeuroImage",
+      "filter": "neuroimaging"
+    },
+    {
+      "title": "Salience network expansion as a transdiagnostic neural marker for psychopathology risk in adolescence",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.28.762645v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Brain representations of visual short-term memories during healthy human aging: occipital decline and frontoparietal compensation",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.26.761884v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Disrupting SORL1-retromer endosomal recycling in mice drives the age-dependent neurodegenerative signature of Alzheimer's disease",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.26.761980v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Differential endothelial cell remodeling in Down syndrome and APP duplication drives distinct blood brain barrier dysfunction",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.29.762815v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Individualized brain-body signatures of positive emotions revealed by large-scale multimodal neurophysiological recording",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.23.761434v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Affective representations and brain-body dynamics during emotional video viewing",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.28.762567v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
       "title": "Adolescent Sugar-Induced Miswiring of Hippocampal Neurons Drives Adult Motivational Dysfunction in rats",
       "url": "https://www.biorxiv.org/content/10.64898/2026.10.26.761002v1?rss=1",
       "date": null,
@@ -52,46 +108,18 @@
       "filter": "nih"
     },
     {
-      "title": "In Utero MRI of Radial Glial Fibers Highlights Their Role in Modulating Fetal Cortical Folding",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.28.761462v1?rss=1",
+      "title": "Quantitative CTA-Based Carotid Plaque Composition Across Stroke Etiologies and Residual Vascular Risk",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.10.28.26366685v1?rss=1",
       "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
+      "source": "medRxiv neurology",
+      "filter": "neurology"
     },
     {
-      "title": "Coordinated Drift of Image Representations in Human EEG",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.27.762314v1?rss=1",
+      "title": "Blood-based biomarkers across the Alzheimer's disease continuum in older Korean population",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.10.27.26366659v1?rss=1",
       "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Brain state locks silent memories in a trained fly connectome",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.24.761586v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "The TREM-receptor family interactome in the human brain",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.28.762136v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Cortical asymmetry and its developmental change have distinct relationships with brain connectivity",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.28.762579v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Causal reasoning is domain-specific in the human brain",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.27.762213v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
+      "source": "medRxiv neurology",
+      "filter": "neurology"
     },
     {
       "title": "Brain Dynamics of Persistent Postural-Perceptual Dizziness at Rest Reveal Alterations in Multisensory and Motor Areas",
@@ -192,77 +220,41 @@
       "filter": "neurology"
     },
     {
-      "title": "Plasma eMTBR-tau as a marker of clinical stage and progression across the Alzheimer's disease continuum",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.10.21.26366056v1?rss=1",
-      "date": null,
-      "source": "medRxiv neurology",
-      "filter": "neurology"
+      "title": "Acute exercise for emotional pattern separation in youth with psychiatric symptoms and childhood adversity: a randomized controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42953727/",
+      "date": "2026-12-01",
+      "source": "NeuroImage",
+      "filter": "neuroimaging"
     },
     {
-      "title": "Age and sex impact resting-state EEG aperiodic activity beyond symptom associations in persistent post-concussive symptoms",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.10.22.26366086v1?rss=1",
-      "date": null,
-      "source": "medRxiv neurology",
-      "filter": "neurology"
+      "title": "Architectural reorganization of functional connectivity after propofol anesthesia exceeds within-state measurement variability and is only marginally reversed during early recovery.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42871879/",
+      "date": "2026-12-01",
+      "source": "NeuroImage",
+      "filter": "neuroimaging"
     },
     {
-      "title": "Genetic susceptibility to Lewy body disease and the distribution of Lewy pathology",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.10.21.26366146v1?rss=1",
-      "date": null,
-      "source": "medRxiv neurology",
-      "filter": "neurology"
-    },
-    {
-      "title": "An energy-dependent integrate-and-fire model explains coordinated synaptic and intrinsic adaptation under metabolic stress",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.28.757140v1?rss=1",
+      "title": "Evolutionary tuning of complexin-synaptotagmin fusion clamp governs regulated neurotransmitter release",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.26.761994v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Junctional Nanodomains Organised by Extended Synaptotagmin-1 Underlie Inflammatory Signalling in Sensory Neurons",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.28.762450v1?rss=1",
+      "title": "Comparative Proteomics Reveals Cell-Type-Specific Heterogeneity of Human Neural Cell-Derived Extracellular Vesicles",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.29.762880v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Neural Bases for Working Memory of Natural Sound Textures",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.28.762478v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Genetic ablation of Sarm1 attenuates axonal degeneration in a mouse model of CMT2J",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.28.762421v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Design Tradeoffs in High Resolution, Large Field-of-View 3D All-Optical Control of Neural Circuits",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.28.762619v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Retinal Phd2 ablation partially rescues Crb1Crb2-associated Leber congenital amaurosis and alters metabolic signaling",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.26.761799v1?rss=1",
+      "title": "Neural mechanisms for resilient sensory computation under metabolic stress",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.29.761790v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     }
   ],
-  "authorItems": [
-    {
-      "title": "MRI derived hippocampal asymmetry identifies hippocampal sclerosis in epilepsy surgical specimens.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42676852/",
-      "date": "2026-01-01",
-      "journal": "Brain communications",
-      "source": "PubMed"
-    }
-  ],
+  "authorItems": [],
   "live": true
 }
